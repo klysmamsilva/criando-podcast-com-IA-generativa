@@ -1,3 +1,9 @@
+
+
+![img podcast](https://github.com/user-attachments/assets/09b5bb80-a8aa-46e5-adf8-dd6c400f8881)
+
+
+
 # Projeto Podcast Gerado por I.A.s Generativas
 
 
